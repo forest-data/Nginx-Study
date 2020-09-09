@@ -229,3 +229,4 @@ location /image/ {
 
 
 # Nginx 原理
+Master -- n worker
